@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "second commit"
+echo "second commit2"
